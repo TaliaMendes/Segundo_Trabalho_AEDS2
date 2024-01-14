@@ -1,0 +1,1 @@
+SELECAO NATURAL CLIENTE: Tempo de execucao em milissegundos: 37.605400
