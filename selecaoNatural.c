@@ -1,13 +1,14 @@
 //#include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-//#include "selecaoNatural.h"
 #include "locadora.h"
 #include <sys/time.h>
+#include <time.h>
 
-int selecaoNaturalDvd(FILE *arq, int tam, FILE *logFile) {
-    struct timeval current_time;
-    gettimeofday(&current_time, NULL);
+int selecaoNaturalDvd(FILE *arq, int tam, FILE *logSelecaoDvd) {
+     struct timespec inicioTime, fimTime;
+     double tempoGasto;
+     clock_t inicioClock, fimClock;
 
     int pos = 0;
     int quantidadeParticoes = 0;
@@ -20,6 +21,8 @@ int selecaoNaturalDvd(FILE *arq, int tam, FILE *logFile) {
 
     int auxDvdVet[6] = {0, 0, 0, 0, 0, 0};
 
+
+    clock_gettime(CLOCK_MONOTONIC, &inicioTime);
     rewind(arq);
 
     while (!feof(arq)) {
@@ -142,15 +145,22 @@ int selecaoNaturalDvd(FILE *arq, int tam, FILE *logFile) {
         fclose(arqParticao);
     }
 
-    fprintf(logFile, "SELECAO NATURAL DVD - Tempo de execucao: %ld", current_time.tv_usec);
-    //fclose(logFile);
+    clock_gettime(CLOCK_MONOTONIC, &fimTime);
+    tempoGasto = (fimTime.tv_sec - inicioTime.tv_sec) * 1000.0; // seconds to milliseconds
+    tempoGasto += (fimTime.tv_nsec - inicioTime.tv_nsec) / 1000000.0; // nanoseconds to milliseconds
+
+    //Escrevendo no arquivo de log
+    fprintf(logSelecaoDvd, "SELECAO NATURAL DVD - Tempo de execucao em milissegundos: %f\n", tempoGasto);
+    fclose(logSelecaoDvd);
+
     return quantidadeParticoes;
 
 }
 
-int selecaoNaturalCliente(FILE *arq, int tam, FILE *logFile) {
-    struct timeval current_time;
-    gettimeofday(&current_time, NULL);
+int selecaoNaturalCliente(FILE *arq, int tam, FILE *logSelecaoCliente) {
+     struct timespec inicioTime, fimTime;
+     double tempoGasto;
+     clock_t inicioClock, fimClock;
 
     int pos = 0;
     int quantidadeParticoes = 0;
@@ -163,6 +173,8 @@ int selecaoNaturalCliente(FILE *arq, int tam, FILE *logFile) {
 
     int auxClienteVet[6] = {0, 0, 0, 0, 0, 0};
 
+
+    clock_gettime(CLOCK_MONOTONIC, &inicioTime);
     rewind(arq);
 
     while (!feof(arq)) {
@@ -285,8 +297,13 @@ int selecaoNaturalCliente(FILE *arq, int tam, FILE *logFile) {
         fclose(arqParticao);
     }
 
-    fprintf(logFile, "SELECAO NATURAL CLIENTE: Tempo de execucao: %ld", current_time.tv_usec);
-    //fclose(logFile);
+    clock_gettime(CLOCK_MONOTONIC, &fimTime);
+    tempoGasto = (fimTime.tv_sec - inicioTime.tv_sec) * 1000.0; // seconds to milliseconds
+    tempoGasto += (fimTime.tv_nsec - inicioTime.tv_nsec) / 1000000.0; // nanoseconds to milliseconds
+
+    //Escrevendo no arquivo de log
+    fprintf(logSelecaoCliente, "SELECAO NATURAL CLIENTE: Tempo de execucao em milissegundos: %f\n", tempoGasto);
+    fclose(logSelecaoCliente);
 
     return quantidadeParticoes;
 }

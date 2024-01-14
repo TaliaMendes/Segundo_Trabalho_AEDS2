@@ -1,0 +1,1248 @@
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.143900 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.034600 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.062400 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.023000 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.215300 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.042200 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.050200 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.041100 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.116900 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.017500 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.022900 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.021800 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.077600 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.018800 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.013600 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.014000 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.104300 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.009700 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.010600 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.013400 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.105700 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.020200 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.029300 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.014100 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.071500 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.019800 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.017300 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.009000 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.076800 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.020300 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.010300 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.010500 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.072400 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.011400 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.008300 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.009000 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.166000 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.036700 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.030600 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.021000 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.070900 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.008600 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.009400 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.011000 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.062300 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.016700 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.015700 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.013700 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.180500 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.031800 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.020600 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.017200 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.160200 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.026200 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.032300 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.026500 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.060000 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.010700 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.015300 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.029700 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.061300 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.013000 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.011000 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.012700 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.107700 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.019900 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.017000 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.016000 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.082800 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.014900 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.020000 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.060900 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.087600 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.013200 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.018000 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.016100 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.066100 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.020100 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.010200 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.013400 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.172700 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.011100 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.011100 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.019200 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.076300 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.018200 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.014700 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.024900 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.094900 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.015800 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.012700 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.013000 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.112600 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.021000 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.017700 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.022300 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.077700 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.028700 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.022600 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.017900 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.097000 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.019800 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.029200 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.020500 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.136600 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.028000 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.027700 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.038700 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.087800 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.013000 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.012600 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.017100 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.074000 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.018100 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.015000 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.036700 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.077000 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.011900 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.015400 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.013600 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.069800 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.013600 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.010500 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.015400 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.070100 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.016500 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.017800 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.023300 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.060500 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.012500 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.013000 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.025600 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.072700 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.013100 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.014800 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.010700 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.139800 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.010300 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.012800 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.011600 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.068600 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.011700 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.015600 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.015600 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.068500 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.018200 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.038100 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.017900 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.116100 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.035100 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.030100 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.026600 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.113300 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.016600 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.059600 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.013000 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.086000 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.020800 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.022000 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.014500 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.058200 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.038800 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.014500 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.010700 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.165500 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.028000 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.019900 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.035900 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.215200 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.073800 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.031800 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.021500 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.056900 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.009000 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.010400 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.007700 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.076100 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.012200 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.012700 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.009800 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.149000 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.038500 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.027200 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.024600 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.125200 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.019700 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.025400 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.029400 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.056300 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.011900 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.009200 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.011000 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.059200 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.009400 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.008300 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.009700 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.174500 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.014900 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.021100 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.062300 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.130000 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.019600 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.023800 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.024600 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.078700 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.013900 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.011000 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.015000 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.111400 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.017800 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.015400 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.020700 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.059500 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.013300 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.020000 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.023500 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.071700 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.015300 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.017900 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.017500 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.125000 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.023300 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.018700 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.018200 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.075800 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.011600 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.013300 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.032100 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.066200 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.012000 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.013300 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.013400 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.072400 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.021600 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.017000 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.018200 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.090800 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.018500 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.012600 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.011400 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.058100 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.011100 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.013100 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.015300 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.060800 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.014300 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.014700 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.011800 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.136200 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.032300 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.022100 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.040000 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.075500 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.015600 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.012700 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.012100 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.113800 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.022700 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.025500 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.032200 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.076100 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.012500 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.014000 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.010700 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.212900 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.038100 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.042100 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.035600 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.132000 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.025500 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.018300 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.014800 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.096600 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.014400 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.017000 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.016400 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.063800 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.016700 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.011400 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.013000 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.074100 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.019800 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.011100 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.024900 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.110200 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.025800 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.021100 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.026000 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.055500 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.013200 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.012100 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.009900 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.125900 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.021400 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.017100 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.026000 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.085900 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.010300 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.012400 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.016600 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.056800 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.014200 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.011200 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.012200 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.078600 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.011800 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.012900 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.010200 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.071600 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.014000 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.012000 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.013900 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.097600 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.020700 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.012500 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.016200 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.393100 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.011800 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.011400 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.032400 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.056600 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.014500 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.011700 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.011500 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.113000 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.025200 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.021000 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.024200 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.056300 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.011500 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.014300 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.012300 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.089500 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.014900 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.012100 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.009100 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.098700 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.014900 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.017300 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.015100 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.074300 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.011800 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.012000 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.016700 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.082800 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.012500 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.013200 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.012100 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.064800 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.012800 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.031800 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.023500 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.110500 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.012900 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.012200 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.013400 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.082000 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.016400 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.014700 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.016000 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.088200 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.018000 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.016800 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.011100 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.071900 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.019600 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.021600 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.010500 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.126700 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.024500 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.057000 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.016900 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.055100 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.012000 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.018300 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.009800 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.064000 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.014100 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.013300 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.012800 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.088100 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.020400 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.015600 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.011200 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.071100 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.011300 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.014400 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.011800 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.127900 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.021000 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.018300 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.017500 milissegundos
+Busca pela chave 3: 
+Comparações = 2, Tempo = 0.083000 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.010600 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.009500 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.009500 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.067300 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.011500 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.010000 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.012000 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.083500 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.010500 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.013600 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.010300 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.101700 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.010400 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.008700 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.011500 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.064100 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.015700 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.020800 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.021100 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.096700 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.037200 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.018900 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.041900 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.082600 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.018200 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.027500 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.014900 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.190100 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.026200 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.019900 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.025500 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.128100 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.028300 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.024500 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.026800 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.100000 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.017300 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.022700 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.020200 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.147800 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.045300 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.086300 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.027300 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.111400 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.026500 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.022900 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.021400 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.167700 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.025300 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.018700 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.019300 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.215000 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.022700 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.024300 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.027300 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.063800 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.013300 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.013500 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.012100 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.075200 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.017200 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.009900 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.012700 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.140500 milissegundos
+Busca pela chave 4: 
+Comparações = 6, Tempo = 0.022100 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.024200 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.068200 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.075500 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.012000 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.011000 milissegundos
+Busca pela chave 6: 
+Comparações = 5, Tempo = 0.009900 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.065600 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.013200 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.015300 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.013500 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.064000 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.014700 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.009800 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.012600 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.065000 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.011400 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.014200 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.013600 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.128100 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.027800 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.024600 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.032000 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.060900 milissegundos
+Busca pela chave 4: 
+Comparações = 2, Tempo = 0.011800 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.011900 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.014500 milissegundos
+Busca pela chave 3: 
+Comparações = 1, Tempo = 0.065500 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.014000 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.016000 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.017600 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.092000 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.018800 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.011700 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.033300 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.071800 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.009900 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.012600 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.013500 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.132300 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.015400 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.020100 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.018800 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.097300 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.011400 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.012700 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.022800 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.054700 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.008200 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.010700 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.008300 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.093000 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.023400 milissegundos
+Busca pela chave 5: 
+Comparações = 7, Tempo = 0.021900 milissegundos
+Busca pela chave 6: 
+Comparações = 1, Tempo = 0.019600 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.085300 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.012800 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.025900 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.014500 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.099300 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.027600 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.012700 milissegundos
+Busca pela chave 6: 
+Comparações = 3, Tempo = 0.011600 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.078500 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.011200 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.014900 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.016400 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.243600 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.041300 milissegundos
+Busca pela chave 5: 
+Comparações = 3, Tempo = 0.040100 milissegundos
+Busca pela chave 6: 
+Comparações = 9, Tempo = 0.073200 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.162200 milissegundos
+Busca pela chave 4: 
+Comparações = 3, Tempo = 0.029400 milissegundos
+Busca pela chave 5: 
+Comparações = 8, Tempo = 0.037900 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.019600 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.047200 milissegundos
+Busca pela chave 4: 
+Comparações = 7, Tempo = 0.012000 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.008900 milissegundos
+Busca pela chave 6: 
+Comparações = 2, Tempo = 0.008200 milissegundos
+Busca pela chave 3: 
+Comparações = 6, Tempo = 0.056700 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.011200 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.007200 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.012500 milissegundos
+Busca pela chave 3: 
+Comparações = 5, Tempo = 0.067500 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.015200 milissegundos
+Busca pela chave 5: 
+Comparações = 6, Tempo = 0.016500 milissegundos
+Busca pela chave 6: 
+Comparações = 8, Tempo = 0.017400 milissegundos
+Busca pela chave 3: 
+Comparações = 9, Tempo = 0.061500 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.015100 milissegundos
+Busca pela chave 5: 
+Comparações = 4, Tempo = 0.018300 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.019300 milissegundos
+Busca pela chave 3: 
+Comparações = 7, Tempo = 0.148600 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.019600 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.023000 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.017700 milissegundos
+Busca pela chave 3: 
+Comparações = 8, Tempo = 0.281500 milissegundos
+Busca pela chave 4: 
+Comparações = 5, Tempo = 0.043200 milissegundos
+Busca pela chave 5: 
+Comparações = 1, Tempo = 0.033900 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.049200 milissegundos
+Busca pela chave 3: 
+Comparações = 4, Tempo = 0.063700 milissegundos
+Busca pela chave 4: 
+Comparações = 9, Tempo = 0.015900 milissegundos
+Busca pela chave 5: 
+Comparações = 2, Tempo = 0.010800 milissegundos
+Busca pela chave 6: 
+Comparações = 7, Tempo = 0.015400 milissegundos
+Busca pela chave 3: 
+Comparações = 648, Tempo = 0.660800 milissegundos
+Busca pela chave 4: 
+Comparações = 2491, Tempo = 1.512900 milissegundos
+Busca pela chave 5: 
+Comparações = 705, Tempo = 0.632700 milissegundos
+Busca pela chave 6: 
+Comparações = 1959, Tempo = 1.048200 milissegundos
+Busca pela chave 3: 
+Comparações = 8552, Tempo = 4.594200 milissegundos
+Busca pela chave 4: 
+Comparações = 6723, Tempo = 4.390300 milissegundos
+Busca pela chave 5: 
+Comparações = 1270, Tempo = 1.191100 milissegundos
+Busca pela chave 6: 
+Comparações = 1242, Tempo = 1.121500 milissegundos
+Busca pela chave 3: 
+Comparações = 52, Tempo = 0.062500 milissegundos
+Busca pela chave 4: 
+Comparações = 2172, Tempo = 1.695700 milissegundos
+Busca pela chave 5: 
+Comparações = 1991, Tempo = 1.546600 milissegundos
+Busca pela chave 6: 
+Comparações = 113, Tempo = 0.147500 milissegundos
+Busca pela chave 3: 
+Comparações = 817, Tempo = 0.428100 milissegundos
+Busca pela chave 4: 
+Comparações = 8641, Tempo = 4.392000 milissegundos
+Busca pela chave 5: 
+Comparações = 1150, Tempo = 0.566600 milissegundos
+Busca pela chave 6: 
+Comparações = 4644, Tempo = 2.303800 milissegundos
+Busca pela chave 3: 
+Comparações = 6411, Tempo = 3.082500 milissegundos
+Busca pela chave 4: 
+Comparações = 5090, Tempo = 2.299300 milissegundos
+Busca pela chave 5: 
+Comparações = 4964, Tempo = 3.096300 milissegundos
+Busca pela chave 6: 
+Comparações = 6537, Tempo = 2.888600 milissegundos
+Busca pela chave 3: 
+Comparações = 2484, Tempo = 1.980100 milissegundos
+Busca pela chave 4: 
+Comparações = 4629, Tempo = 2.289400 milissegundos
+Busca pela chave 5: 
+Comparações = 167, Tempo = 0.083200 milissegundos
+Busca pela chave 6: 
+Comparações = 4634, Tempo = 2.254200 milissegundos
+Busca pela chave 3: 
+Comparações = 187, Tempo = 0.279400 milissegundos
+Busca pela chave 4: 
+Comparações = 809, Tempo = 0.584600 milissegundos
+Busca pela chave 5: 
+Comparações = 1455, Tempo = 1.101500 milissegundos
+Busca pela chave 6: 
+Comparações = 1757, Tempo = 1.251200 milissegundos
+Busca pela chave 3: 
+Comparações = 3544, Tempo = 3.439900 milissegundos
+Busca pela chave 4: 
+Comparações = 5040, Tempo = 3.290500 milissegundos
+Busca pela chave 5: 
+Comparações = 3223, Tempo = 2.094200 milissegundos
+Busca pela chave 6: 
+Comparações = 5706, Tempo = 3.671700 milissegundos
+Busca pela chave 3: 
+Comparações = 56, Tempo = 0.095600 milissegundos
+Busca pela chave 4: 
+Comparações = 17, Tempo = 0.035100 milissegundos
+Busca pela chave 5: 
+Comparações = 25, Tempo = 0.061500 milissegundos
+Busca pela chave 6: 
+Comparações = 60, Tempo = 0.078900 milissegundos
+Busca pela chave 3: 
+Comparações = 1418, Tempo = 0.916300 milissegundos
+Busca pela chave 4: 
+Comparações = 3664, Tempo = 1.752000 milissegundos
+Busca pela chave 5: 
+Comparações = 2696, Tempo = 1.218400 milissegundos
+Busca pela chave 6: 
+Comparações = 2205, Tempo = 1.026900 milissegundos
+Busca pela chave 3: 
+Comparações = 758, Tempo = 0.445500 milissegundos
+Busca pela chave 4: 
+Comparações = 1575, Tempo = 0.765500 milissegundos
+Busca pela chave 5: 
+Comparações = 1461, Tempo = 1.071200 milissegundos
+Busca pela chave 6: 
+Comparações = 471, Tempo = 0.233100 milissegundos
+Busca pela chave 3: 
+Comparações = 465, Tempo = 0.562800 milissegundos
+Busca pela chave 4: 
+Comparações = 97, Tempo = 0.115900 milissegundos
+Busca pela chave 5: 
+Comparações = 1677, Tempo = 2.694600 milissegundos
+Busca pela chave 6: 
+Comparações = 922, Tempo = 0.967600 milissegundos
+Busca pela chave 3: 
+Comparações = 4151, Tempo = 4.862100 milissegundos
+Busca pela chave 4: 
+Comparações = 3226, Tempo = 3.282400 milissegundos
+Busca pela chave 5: 
+Comparações = 793, Tempo = 0.799800 milissegundos
+Busca pela chave 6: 
+Comparações = 1147, Tempo = 1.258200 milissegundos
+Busca pela chave 3: 
+Comparações = 2286, Tempo = 2.509700 milissegundos
+Busca pela chave 4: 
+Comparações = 1657, Tempo = 1.679600 milissegundos
+Busca pela chave 5: 
+Comparações = 1854, Tempo = 2.593400 milissegundos
+Busca pela chave 6: 
+Comparações = 1563, Tempo = 1.390000 milissegundos
+Busca pela chave 3: 
+Comparações = 11, Tempo = 0.119100 milissegundos
+Busca pela chave 4: 
+Comparações = 1, Tempo = 0.015900 milissegundos
+Busca pela chave 5: 
+Comparações = 9, Tempo = 0.016300 milissegundos
+Busca pela chave 6: 
+Comparações = 4, Tempo = 0.013300 milissegundos
+Busca pela chave 3: 
+Comparações = 27, Tempo = 0.293900 milissegundos
+Busca pela chave 4: 
+Comparações = 8, Tempo = 0.025800 milissegundos
+Busca pela chave 5: 
+Comparações = 20, Tempo = 0.041000 milissegundos
+Busca pela chave 6: 
+Comparações = 26, Tempo = 0.041900 milissegundos

@@ -25,20 +25,23 @@ void arvoreVencDvd(TDvd **dvd, FILE *arqD, int tam, int *arvoreAux) {
             }
         }
     }
-
+ printf("\noutra funcao");
     salvarDvd(dvd[0], arqD);
     *arvoreAux +=1;
 }
 
 
-void arvoreBinariaVencDvd(int qtdParticoes, FILE *logFile){
-    struct timeval current_time;
-    gettimeofday(&current_time, NULL);
+void arvoreBinariaVencDvd(int qtdParticoes, FILE *logArvoreVencDvd){
+     struct timespec inicioTime, fimTime;
+     double tempoGasto;
+     clock_t inicioClock, fimClock;
 
     int auxQtdParticoes = qtdParticoes;
     int flagAuxFinal = 0;
     int arvoreAux = 0;
     int tam;
+
+    clock_gettime(CLOCK_MONOTONIC, &inicioTime);
 
     if (qtdParticoes % 2 == 0){
         tam = 2 * qtdParticoes - 1;
@@ -134,7 +137,12 @@ void arvoreBinariaVencDvd(int qtdParticoes, FILE *logFile){
     imprimirBaseDvd(arvoreBinaria);
     fclose(arvoreBinaria);
 
-    fprintf(logFile, "ARVORE BINARIA VENCEDORES DVD - Tempo de execucao: %ld", current_time.tv_usec);
+    clock_gettime(CLOCK_MONOTONIC, &fimTime);
+    tempoGasto = (fimTime.tv_sec - inicioTime.tv_sec) * 1000.0; // seconds to milliseconds
+    tempoGasto += (fimTime.tv_nsec - inicioTime.tv_nsec) / 1000000.0; // nanoseconds to milliseconds
+
+    fprintf(logArvoreVencDvd, "ARVORE BINARIA VENCEDORES DVD - Tempo de execucao: %f", tempoGasto);
+    fclose(logArvoreVencDvd);
 
 }
 
@@ -142,7 +150,6 @@ void arvoreVencCliente(TCliente **cliente, FILE *arqC, int tam, int *arvoreAux) 
     int aux;
 
     for (int i = tam - 1; i > 0; i--){
-
         if (i % 2 != 0 && i == tam - 1){
             aux = (i - 1) / 2;
             (*cliente[aux]) = (*cliente[i]);
@@ -164,14 +171,17 @@ void arvoreVencCliente(TCliente **cliente, FILE *arqC, int tam, int *arvoreAux) 
 }
 
 
-void arvoreBinariaVencCliente(int qtdParticoes, FILE *logFile){
-    struct timeval current_time;
-    gettimeofday(&current_time, NULL);
+void arvoreBinariaVencCliente(int qtdParticoes, FILE *logArvoreVencCliente){
+     struct timespec inicioTime, fimTime;
+     double tempoGasto;
+     clock_t inicioClock, fimClock;
 
     int auxQtdParticoes = qtdParticoes;
     int flagAuxFinal = 0;
     int arvoreAux = 0;
     int tam;
+
+    clock_gettime(CLOCK_MONOTONIC, &inicioTime);
 
     if (qtdParticoes % 2 == 0){
         tam = 2 * qtdParticoes - 1;
@@ -201,13 +211,15 @@ void arvoreBinariaVencCliente(int qtdParticoes, FILE *logFile){
         char nome2[50] = ".dat";
 
         itoa(i, nome1, 10);
-        strcat(strcpy(nomeParticaoc, "slcNatC"), nome1);
-        strcat(strcpy(nomeParticaoc, nomeParticaoc), nome2);
 
-        auxArq[i].filePartitionc = fopen(nomeParticaoc, "rb+");
-        if (auxArq[i].filePartitionc == NULL) {
+        *strcat(strcpy(nomeParticaoc, "slcNatC"), nome1);
+        *strcat(strcpy(nomeParticaoc, nomeParticaoc), nome2);
+
+        auxArq[i].filePartitionc = fopen(nomeParticaoc, "wb+");
+
+
+       if (auxArq[i].filePartitionc == NULL) {
             fprintf(stderr, "Erro ao abrir o arquivo %s. Motivo: %s\n", nomeParticaoc, strerror(errno));
-            // Lide com o erro conforme necessário
         }
 
         fseek(auxArq[i].filePartitionc, 0 * sizeof(TCliente), SEEK_SET);
@@ -273,6 +285,11 @@ void arvoreBinariaVencCliente(int qtdParticoes, FILE *logFile){
     imprimirBaseCliente(arvoreBinariac);
     fclose(arvoreBinariac);
 
-    fprintf(logFile, "ARVORE BINARIA VENCEDORES CLIENTE - Tempo de execucao: %ld", current_time.tv_usec);
+    clock_gettime(CLOCK_MONOTONIC, &fimTime);
+    tempoGasto = (fimTime.tv_sec - inicioTime.tv_sec) * 1000.0;
+    tempoGasto += (fimTime.tv_nsec - inicioTime.tv_nsec) / 1000000.0;
+
+    fprintf(logArvoreVencCliente, "ARVORE BINARIA VENCEDORES CLIENTE - Tempo de execucao: %f", tempoGasto);
+    fclose(logArvoreVencCliente);
 
 }

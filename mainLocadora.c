@@ -1,16 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "locadora.c"
-#include "selectionSort.h"
-#include "selecaoNatural.h"
-#include "arvoreBinariaVencedores.h"
+#include "selectionSort.c"
+#include "selecaoNatural.c"
+#include "arvoreBinariaVencedores.c"
 
-#define TAM_CLIENTE 10
+#define TAM_CLIENTE 30
 #define TAM_DVD 30
 #define TAM_LOCADORA 4
 int main() {
 
-    FILE *arqClientes, *arqDvds, *arqLocadora, *logFile;
+    FILE *arqClientes, *arqDvds, *arqLocadora, *logFile , *logFileCliente, *logSelecaoDvd, *logSelecaoCliente, *logArvoreVencDvd, *logArvoreVencCliente;
     TCliente *cliente;
     TDvd *dvd;
     TLocadora *locacao;
@@ -36,6 +36,32 @@ int main() {
         exit(1);
     }
 
+    if ((logFileCliente = fopen("logCliente.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo\n");
+        exit(1);
+    }
+
+    if ((logSelecaoDvd = fopen("logSelecaoDVD.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo\n");
+        exit(1);
+    }
+
+    if ((logSelecaoCliente = fopen("logSelecaoCliente.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo\n");
+        exit(1);
+    }
+
+     if ((logArvoreVencDvd = fopen("logArvoreDVD.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo\n");
+        exit(1);
+    }
+
+     if ((logArvoreVencCliente = fopen("logArvoreCliente.txt", "w")) == NULL) {
+        printf("Erro ao abrir arquivo\n");
+        exit(1);
+    }
+
+
     criarBaseDvd(arqDvds, TAM_DVD);
     criarBaseCliente(arqClientes, TAM_CLIENTE);
     criarBaseLocadora(arqLocadora, arqClientes, arqDvds, TAM_LOCADORA);
@@ -47,7 +73,7 @@ int main() {
 
 
     while (opcao != 0) {
-        system("clear");
+        //system("clear");
         printf("\n***************************** LOCADORA TAGEO  ********************************");
         printf("\n1. Cadastrar DVD \n2. Buscar DVD \n3. Excluir DVD \n4. Imprimir todos os DVDs \n-----------------------------\n"
                "5. Cadastrar cliente \n6. Buscar cliente \n7. Excluir cliente \n8. Imprimir todos os clientes \n-----------------------------"
@@ -58,7 +84,7 @@ int main() {
 
         switch (opcao) {
             case 1:
-                system("clear");
+                //system("clear");
                 printf("\n************************* CADASTRAR DVD *******************************\n");
 
                 dvd = (TDvd *) malloc(sizeof(TDvd));
@@ -118,7 +144,7 @@ int main() {
                 imprimirBaseDvd(arqDvds);
                 break;
             case 5:
-                system("clear");
+                //system("clear");
                 printf("\n****************** CADASTRAR CLIENTE ************************\n");
 
                 cliente = (TCliente *) malloc(sizeof(TCliente));
@@ -228,7 +254,7 @@ int main() {
 
                 printf("\nAplicando SelectionSort na base de clientes.......\n");
                 printf("\n\n\n\n\n\n\n\n\n");
-                selectionSortCliente(arqClientes, TAM_CLIENTE, logFile);
+                selectionSortCliente(arqClientes, TAM_CLIENTE, logFileCliente);
 
                 imprimirBaseCliente(arqClientes);
                 break;
@@ -242,22 +268,22 @@ int main() {
                 printf("\nAplicando metodo de arvore binaria de vencedores na base de DVDs.......\n");
                 int qtd = 1;
 
-                qtd += selecaoNaturalDvd(arqDvds, tamanho_arquivo_dvd(arqDvds), logFile);
+                qtd += selecaoNaturalDvd(arqDvds, tamanho_arquivo_dvd(arqDvds), logSelecaoDvd);
 
-                arvoreBinariaVencDvd(qtd, logFile);
+                //arvoreBinariaVencDvd(qtd, logArvoreVencDvd);
                 printf("\n\n\n\n");
 
                 imprimirBaseCliente(arqClientes);
                 printf("\n\n\n\n");
+
                 printf("\nAplicando metodo de arvore binaria de vencedores na base de clientes.......\n");
 
                 qtd = 1;
-
-                qtd += selecaoNaturalCliente(arqClientes, tamanho_arquivo_cliente(arqClientes), logFile);
-
-                arvoreBinariaVencCliente(qtd, logFile);
+                qtd += selecaoNaturalCliente(arqClientes, tamanho_arquivo_cliente(arqClientes), logSelecaoCliente);
+                arvoreBinariaVencCliente(1, logArvoreVencCliente);
 
                 //printf("\033[H\033[J");
+                break;
                 break;
             case 15:
                 break;
